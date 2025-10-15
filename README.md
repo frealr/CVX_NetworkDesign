@@ -12,8 +12,8 @@ These folders are:
 
 •⁠  ⁠*9-Node Network*: Associated with the experiments in sections 6.2 and 6.3.
 
-•⁠  ⁠*Seville 24-Node Network*: Associated with the experiments in section 6.4.1.
+•⁠  ⁠*Sevilla 24-Node Network*: Associated with the experiments in section 6.4.1.
 
-•⁠  ⁠*Seville 51-Node Network*: Associated with the experiments in section 6.4.2.
+•⁠  ⁠*Sevilla 51-Node Network*: Associated with the experiments in section 6.4.2.
 
-•⁠  ⁠*Seville Scalability*: Associated with the experiments in section 6.4.3.
+•⁠  ⁠*Sevilla Scalability*: Associated with the experiments in section 6.4.3.
